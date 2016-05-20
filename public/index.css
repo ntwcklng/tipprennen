@@ -1,0 +1,22 @@
+#text {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+}
+#text .active_word {
+	color: red;
+}
+.btn {
+	margin: 10px auto;
+	display: block;
+}
+#text_in {
+	margin: 50px auto;
+	display: block;
+}
+.wrong_word {
+	background: red;
+}
